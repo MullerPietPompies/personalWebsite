@@ -1,2 +1,5 @@
-# personalWebsite
-My personal website and development there of
+# Developing my personal website from scratch
+
+## Purpose
+- Develop and host my personal website from scratch
+- Highlight my skills in webdevelopment and network programming
