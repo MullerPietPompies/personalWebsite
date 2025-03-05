@@ -1,0 +1,19 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@xterm/xterm": "^5.5.0",
+    "xterm": "^5.3.0"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
